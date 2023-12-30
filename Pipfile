@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 selenium = "*"
 beautifulsoup4 = "*"
+pandas = "*"
+openpyxl = "*"
+lxml = "*"
 
 [dev-packages]
 
